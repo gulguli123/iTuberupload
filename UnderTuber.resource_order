@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBin","order":1,"path":"objects/oBin/oBin.yy",},
+    {"name":"oDoors","order":8,"path":"objects/oDoors/oDoors.yy",},
+    {"name":"oEvil","order":11,"path":"objects/oEvil/oEvil.yy",},
+    {"name":"oNPCs","order":9,"path":"objects/oNPCs/oNPCs.yy",},
+    {"name":"oPlatform","order":6,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oPlayer","order":5,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oSolid","order":7,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpawner","order":10,"path":"objects/oSpawner/oSpawner.yy",},
+    {"name":"oTrain","order":2,"path":"objects/oTrain/oTrain.yy",},
+    {"name":"sBackground","order":5,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sBin","order":3,"path":"sprites/sBin/sBin.yy",},
+    {"name":"sCarriage","order":4,"path":"sprites/sCarriage/sCarriage.yy",},
+    {"name":"sDoors","order":6,"path":"sprites/sDoors/sDoors.yy",},
+    {"name":"sEvil","order":8,"path":"sprites/sEvil/sEvil.yy",},
+    {"name":"sPlatform","order":7,"path":"sprites/sPlatform/sPlatform.yy",},
+    {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayer2","order":1,"path":"sprites/sPlayer2/sPlayer2.yy",},
+  ],
+}
